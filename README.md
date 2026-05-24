@@ -1,5 +1,6 @@
 # Mobile Application Project
-# using Flutter ,Dart and Android Stadio
+# using Flutter ,Dart and Android Stadio and using 
+“This application uses Firebase for backend services such as authentication, database, and data storage.”
 # cafe_management_app
 <img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/96b6f27f-0b4e-4bcb-bb7c-71201f3aba17" />
 <img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/d84a0d69-9eea-4f6c-9ca2-82d63f15318d" />
